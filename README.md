@@ -1,0 +1,1 @@
+This is a open vault to help my brain assimilate, absorb and reference content i have studied. It should be private, but I'm keeping it public for now. 

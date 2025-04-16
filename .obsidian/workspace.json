@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Untitled.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "README"
             }
           }
         ]
@@ -168,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ab60a32dfe406c2",
+  "active": "dca78f2be454f63d",
   "lastOpenFiles": [
+    "Python/Untitled.md",
     "BETHA_CMM/Contábil.md",
     "BETHA_CMM",
     "MVC ARCHITETURE/Controller.md",
@@ -178,7 +179,6 @@
     "OOP/Summary.md",
     "README.md",
     "Docker/Summary.md",
-    "Python/Untitled.md",
     "Docker",
     "Python.md",
     "Python",
