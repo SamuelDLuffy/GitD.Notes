@@ -16,7 +16,9 @@
                 "file": "MVC ARCHITETURE/Controller.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Controller"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "MVC ARCHITETURE/Models.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Models"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "OOP/Inversion of Control.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Inversion of Control"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "OOP/Summary.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Summary"
             }
           },
           {
@@ -64,11 +72,41 @@
                 "file": "Docker.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Docker"
+            }
+          },
+          {
+            "id": "e4e0cc1f841e7001",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OOP/Summary.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Summary"
+            }
+          },
+          {
+            "id": "5b590f699d56c5df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/axafdasda.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "axafdasda"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -87,8 +125,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -103,7 +144,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -111,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -134,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker.md",
+                "file": "Python/axafdasda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +187,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for axafdasda"
             }
           },
           {
@@ -151,10 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker.md",
+                "file": "Python/axafdasda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from axafdasda"
             }
           },
           {
@@ -164,8 +213,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -174,8 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker.md"
-              }
+                "file": "Python/axafdasda.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of axafdasda"
             }
           }
         ]
@@ -195,11 +253,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ab60a32dfe406c2",
+  "active": "5b590f699d56c5df",
   "lastOpenFiles": [
-    "Python.md",
-    "Docker.md",
     "OOP/Summary.md",
+    "Python/axafdasda.md",
+    "Docker.md",
+    "Python.md",
     "OOP/Inversion of Control.md",
     "MVC ARCHITETURE/Models.md",
     "Python",
