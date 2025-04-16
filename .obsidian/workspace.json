@@ -4,123 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "aa96b627a2d01b39",
+        "id": "e42baaa21d67a423",
         "type": "tabs",
         "children": [
           {
-            "id": "3261565376761e07",
+            "id": "dca78f2be454f63d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MVC ARCHITETURE/Controller.md",
+                "file": "Python/Untitled.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Controller"
-            }
-          },
-          {
-            "id": "326f1865c9effa8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MVC ARCHITETURE/Models.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Models"
-            }
-          },
-          {
-            "id": "90e67aeb2ad84196",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OOP/Inversion of Control.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Inversion of Control"
-            }
-          },
-          {
-            "id": "51534aa32e1a4789",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OOP/Summary.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Summary"
-            }
-          },
-          {
-            "id": "36c5493b617c2e0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Docker"
-            }
-          },
-          {
-            "id": "e4e0cc1f841e7001",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OOP/Summary.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Summary"
-            }
-          },
-          {
-            "id": "5b590f699d56c5df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "4fece3fa3e22d204",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -267,19 +168,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fece3fa3e22d204",
+  "active": "2ab60a32dfe406c2",
   "lastOpenFiles": [
-    "Docker/Summary.md",
-    "README.md",
-    "Python/axafdasda.md",
-    "Docker",
-    "OOP/Summary.md",
-    "Python.md",
-    "OOP/Inversion of Control.md",
+    "BETHA_CMM/Contábil.md",
+    "BETHA_CMM",
+    "MVC ARCHITETURE/Controller.md",
     "MVC ARCHITETURE/Models.md",
+    "OOP/Inversion of Control.md",
+    "OOP/Summary.md",
+    "README.md",
+    "Docker/Summary.md",
+    "Python/Untitled.md",
+    "Docker",
+    "Python.md",
     "Python",
     "OOP",
-    "MVC ARCHITETURE/Controller.md",
     "Backend Roadmap/Internet.md",
     "MVC ARCHITETURE",
     "Backend Roadmap/HTTP.md",
