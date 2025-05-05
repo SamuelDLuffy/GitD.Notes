@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "HTTP"
             }
+          },
+          {
+            "id": "e46bb01a47b306cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Yoga Sutras de Patanjali/z.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "z"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,8 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dca78f2be454f63d",
+  "active": "e46bb01a47b306cd",
   "lastOpenFiles": [
+    "Backend Roadmap/HTTP.md",
+    "Yoga Sutras de Patanjali/z.md",
+    "Yoga Sutras de Patanjali",
     "README.md",
     "Python/Untitled.md",
     "BETHA_CMM/Contábil.md",
@@ -185,7 +203,6 @@
     "OOP",
     "Backend Roadmap/Internet.md",
     "MVC ARCHITETURE",
-    "Backend Roadmap/HTTP.md",
     "Backend Roadmap"
   ]
 }
